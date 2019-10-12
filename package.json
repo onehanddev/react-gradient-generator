@@ -1,7 +1,7 @@
 {
-  "name": "gradient-generator",
-  "version": "1.0.0",
-  "description": "A color gradient generator between any two colors with a",
+  "name": "react-gradient-generator",
+  "version": "1.0.2",
+  "description": "A color gradient generator between any two colors with a defined step for react.js",
   "author": "hakimuddinhh",
   "license": "MIT",
   "repository": "hakimuddinhh/gradient-generator",
