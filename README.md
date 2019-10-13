@@ -1,6 +1,6 @@
 # gradient-generator
 
-> A color gradient generator between any two colors with a
+> A color gradient generator between any two colors with a defined step for react.js
 
 [![NPM](https://img.shields.io/npm/v/gradient-generator.svg)](https://www.npmjs.com/package/gradient-generator) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
